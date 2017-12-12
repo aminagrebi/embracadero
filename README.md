@@ -1,1 +1,5 @@
-# embracadero
+# embracaderoلتسجيل في الموقع :
+
+# خطوات تثبيت C++ BUILDER
+
+# رابط لتحميل البرنامج
